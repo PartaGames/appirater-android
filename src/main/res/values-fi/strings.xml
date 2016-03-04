@@ -2,7 +2,7 @@
 <resources>
     <string name="appirator_app_title">Choppa</string>
     <string name="appirator_rate_title">Arvioi %s</string>
-    <string name="appirator_message">Jos käytät mielelläsi %s, voisitko käyttää hetken ja arvostella sen? Se ei kestä minuuttia kauempaa. Kiitos tuestasi!</string>
+    <string name="appirator_message">Jos pelaat mielelläsi %sa, voisitko käyttää hetken ja arvostella sen? Se ei kestä minuuttia kauempaa. Kiitos tuestasi!</string>
     <string name="appirator_button_rate">Arvioi %s</string>
     <string name="appirator_button_rate_later">Muistuta minua myöhemmin</string>
     <string name="appirator_button_rate_cancel">Ei kiitos</string>
